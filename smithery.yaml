@@ -1,0 +1,6 @@
+name: genpark-contract-net-protocol-task-allocation-skill
+version: 1.0.0
+description: FIPA Contract Net Protocol (CNP) multi-agent market mechanism for task bidding, evaluation, and awarding
+command: python
+args:
+  - mcp_server.py
