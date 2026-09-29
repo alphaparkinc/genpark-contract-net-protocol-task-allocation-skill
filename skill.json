@@ -1,0 +1,20 @@
+{
+  "name": "genpark-contract-net-protocol-task-allocation-skill",
+  "version": "1.0.0",
+  "description": "FIPA Contract Net Protocol (CNP) multi-agent market mechanism for task bidding, evaluation, and awarding",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "contract-net-protocol",
+    "task-allocation",
+    "multi-agent",
+    "market-mechanism",
+    "auction-theory",
+    "python-standard-library",
+    "agent-skills",
+    "swarm-intelligence",
+    "fipa-standards",
+    "distributed-systems"
+  ]
+}
