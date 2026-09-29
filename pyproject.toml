@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-contract-net-protocol-task-allocation-skill"
+version = "1.0.0"
+description = "FIPA Contract Net Protocol (CNP) multi-agent market mechanism for task bidding, evaluation, and awarding"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
